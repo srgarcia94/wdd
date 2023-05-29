@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tart & Sweet</title>
+    <link rel="stylesheet" href="styles/layout.css">
+</head>
+<header><h1>Tart & Sweet</h1></header>
+<body>
+    <div id="cherries">
+        <main class="home-grid">
+            <section class="cherrries-card">
+                <img class="icon" src="images/w06_cherries.png" alt="cherries icon">
+            </section>
+            <section class="background-card">
+                <img class="background">
+                <h2>Cherries</h2>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
